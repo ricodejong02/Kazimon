@@ -1,0 +1,9 @@
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\bin\Debug\Kazimon.exe.config
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\bin\Debug\Kazimon.exe
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\bin\Debug\Kazimon.pdb
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\obj\Debug\Kazimon.csprojResolveAssemblyReference.cache
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\obj\Debug\Kazimon.Form1.resources
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\obj\Debug\Kazimon.Properties.Resources.resources
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\obj\Debug\Kazimon.csproj.GenerateResource.Cache
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\obj\Debug\Kazimon.exe
+c:\users\rico\documents\visual studio 2013\Projects\Kazimon\Kazimon\obj\Debug\Kazimon.pdb
